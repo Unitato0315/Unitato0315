@@ -21,6 +21,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Static Badge](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin)
+![Static Badge](https://img.shields.io/badge/PHP-lightblue?style=for-the-badge&logo=php)
+
 
 ### 🧩 Librerías & Frameworks 
 
