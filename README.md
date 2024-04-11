@@ -17,7 +17,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/typescript-yellow?style=for-the-badge&logo=typescript)
-
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Static Badge](https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin)
